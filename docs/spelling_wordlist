@@ -114,6 +114,7 @@ Danga
 Darussalam
 databrowse
 datafile
+datetime
 datetimes
 declaratively
 deconstructible
@@ -166,6 +167,7 @@ ETags
 exfiltration
 fallbacks
 favicon
+field
 fieldset
 fieldsets
 filesystem
@@ -226,6 +228,8 @@ inlines
 instantiation
 interdependencies
 ipsum
+iregex
+isnull
 IPv
 IPython
 ise
@@ -262,6 +266,7 @@ localhost
 localizable
 localizers
 lookaround
+lookup
 lookups
 loopback
 lorem
@@ -279,6 +284,7 @@ memcached
 metaclass
 metaclasses
 metre
+migration
 MiB
 micrometre
 middleware
